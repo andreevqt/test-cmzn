@@ -12,7 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
-    "git-cz": "^4.9.0"
+    "git-cz": "^4.9.0",
+    "semantic-release": "^19.0.5"
   },
   "config": {
     "commitizen": {
