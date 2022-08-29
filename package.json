@@ -11,11 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "git-cz": "^4.9.0"
   },
   "config": {
     "commitizen": {
-      "path": "git-cz"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
